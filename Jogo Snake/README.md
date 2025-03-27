@@ -33,10 +33,10 @@ O jogo será iniciado e você poderá começar a jogar!
 
 ###  Controles do Jogo
 
-Seta para cima: Move a cobra para cima.
-Seta para baixo: Move a cobra para baixo.
-Seta para a esquerda: Move a cobra para a esquerda.
-Seta para a direita: Move a cobra para a direita.
+* Seta para cima: Move a cobra para cima.
+* Seta para baixo: Move a cobra para baixo.
+* Seta para a esquerda: Move a cobra para a esquerda.
+* Seta para a direita: Move a cobra para a direita.
 
 ### Como Funciona
 
